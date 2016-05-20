@@ -1,0 +1,23 @@
+# Convert JSON to YAML online
+# http://www.json2yaml.com/
+
+"[THIS WORD]":
+	
+  # This contains the definition of the word on the same language
+	definition:
+   
+  # This contains translation to your language 
+  translation:
+  	rus:
+    
+  # The images of the word. You can use either url or base64
+  # This is able to contain several images if it needs
+  images:
+  	0:
+    	url:
+  
+  # Where is the word from? (e.g. book)
+  source:
+  
+  # It might be the unit of your book
+  tags:
