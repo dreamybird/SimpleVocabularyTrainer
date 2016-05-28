@@ -1,13 +1,38 @@
-{
-  "word": "go on",
-  "definition": [
-    "if a situation goes on, it continues without changing",
-    "to continue an activity, especially after a pause or break"
-  ],
-  "images": [
-    "1.png"
-  ],
-  "translation": [
-    "продолжать"
-  ]
-}
+[
+  {
+    "word": "to come across as",
+    "definition": [
+      "to behave in a way that makes people believe that you have a particular characteristic"
+    ],
+    "translation": [
+      "производить впечатление"
+    ],
+    "tags": [
+      "Unit 1"
+    ]
+  },
+  {
+    "word": "to bump into someone",
+    "definition": [
+      "to behave in a way that makes people believe that you have a particular characteristic"
+    ],
+    "translation": [
+      "производить впечатление"
+    ],
+    "tags": [
+      "Unit 1"
+    ]
+  },
+  {
+    "word": "to make a (very) good impression on someone",
+    "definition": [
+      "to make other people notice and admire you"
+    ],
+    "translation": [
+      "произвести (очень) хорошее впечатление"
+    ],
+    "tags": [
+      "Unit 1"
+    ]
+  }
+]
